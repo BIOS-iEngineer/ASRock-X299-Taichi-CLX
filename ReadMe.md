@@ -2,6 +2,8 @@
 # BIOS X299 Taichi CLX with built-in support for ES (Engineering Sample) and QS (Qualification Sample) Processors Intel Core i Series
 
 ## This is a latest BIOS release for ASRock X299 Taichi CLX Gaming Motherboard with added support modifier for ES (Engineering Sample) and QS (Qualification Sample) Processors Intel Core i Series.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1D2IBH)
+
 Recommended: Update firmware only with programmer device.
 ![BIOS X299 Taichi CLX with built-in support for ES (Engineering Sample) and QS (Qualification Sample) Processors Intel Core i Series](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X299.jpg)
 
